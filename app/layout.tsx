@@ -43,7 +43,7 @@ const cairo = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "منصة الدكتور محمد سادة",
+  title: "منصة الدكتور محمد سعدة",
   description: "منصة تعليمية متكاملة",
 };
 

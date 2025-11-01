@@ -108,7 +108,7 @@ export default function HomePage() {
   ];
 
   const consultationServices = [
-    { name: "استشارات فردية", icon: UserCheck, description: "استشارات شخصية مع الدكتور محمد ساده" },
+    { name: "استشارات فردية", icon: UserCheck, description: "استشارات شخصية مع الدكتور محمد سعدة" },
     { name: "تقييم الحالات", icon: CheckCircle, description: "تقييم شامل للحالات الخاصة" },
     { name: "وضع الخطط العلاجية", icon: Target, description: "تصميم خطط علاجية مخصصة" },
     { name: "متابعة التقدم", icon: BookOpenCheck, description: "متابعة دورية لتطور الحالات" }
@@ -116,7 +116,7 @@ export default function HomePage() {
 
   const heroSlides = [
     {
-      title: "الدكتور محمد ساده",
+      title: "الدكتور محمد سعدة",
       subtitle: "خبير متخصص في التربية الخاصة والعلاج التخاطبي",
       description: "نقدم دورات تدريبية متخصصة في التوحد، التخاطب، صعوبات التعلم والشلل الدماغي ومتلازمة داون مع شهادات معتمدة",
       image: "/slide-1.png"
@@ -262,7 +262,7 @@ export default function HomePage() {
               }
             }}
             className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center cursor-pointer hover:bg-[#0BA6DF] group transition-colors overflow-hidden"
-            onClick={() => window.open('https://wa.me/20123456789', '_blank')}
+            onClick={() => window.open('https://wa.me/201097541160', '_blank')}
           >
             <Image
               src="/whatsapp.png"
@@ -297,7 +297,7 @@ export default function HomePage() {
               }
             }}
             className="w-12 h-12 bg-white rounded-full shadow-lg flex items-center justify-center cursor-pointer hover:bg-[#0BA6DF] group transition-colors"
-            onClick={() => window.open('tel:+20123456789', '_self')}
+            onClick={() => window.open('tel:+201097541160', '_self')}
           >
             <Phone className="h-6 w-6 text-[#0BA6DF] group-hover:text-white transition-colors" />
           </motion.div>
@@ -390,7 +390,7 @@ export default function HomePage() {
             viewport={{ once: true }}
             className="text-center mb-16"
           >
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">عن الدكتور محمد ساده</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">عن الدكتور محمد سعدة</h2>
             <p className="text-muted-foreground text-lg">خبير متخصص في التربية الخاصة والعلاج التخاطبي</p>
           </motion.div>
 
@@ -405,7 +405,7 @@ export default function HomePage() {
               <div className="space-y-4">
                 <h3 className="text-2xl font-bold text-[#8B0620]">الخبرة المهنية</h3>
                 <p className="text-muted-foreground text-lg leading-relaxed">
-                  الدكتور محمد ساده هو خبير متخصص في مجال التربية الخاصة والعلاج التخاطبي، 
+                  الدكتور محمد سعدة هو خبير متخصص في مجال التربية الخاصة والعلاج التخاطبي، 
                   مع أكثر من 15 عاماً من الخبرة في العمل مع الأطفال ذوي الاحتياجات الخاصة.
                 </p>
               </div>
@@ -591,7 +591,7 @@ export default function HomePage() {
             viewport={{ once: true }}
             className="text-center"
           >
-            <h2 className="text-3xl md:text-4xl font-bold mb-4 text-white">ابدأ رحلتك التعليمية مع الدكتور محمد ساده</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4 text-white">ابدأ رحلتك التعليمية مع الدكتور محمد سعدة</h2>
             <p className="text-white/80 mb-8 text-lg max-w-3xl mx-auto">
               انضم إلى دوراتنا التدريبية المتخصصة في التربية الخاصة والعلاج التخاطبي، 
               واحصل على شهادات معتمدة تؤهلك للعمل في هذا المجال المهم

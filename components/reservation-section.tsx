@@ -83,7 +83,7 @@ export const ReservationSection = () => {
             احجز استشارة
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            احجز استشارة مع الدكتور محمد ساده للحصول على تقييم شامل وخطة علاجية مخصصة
+            احجز استشارة مع الدكتور محمد سعدة للحصول على تقييم شامل وخطة علاجية مخصصة
           </p>
         </motion.div>
 
